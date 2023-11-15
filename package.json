@@ -17,6 +17,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
+    "axios": "^1.6.2",
     "electron": "^27.0.4"
   }
 }

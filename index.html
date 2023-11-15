@@ -1,19 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
   <head>
+    <!-- 解开以下注释以确保网页字符编码和安全性 -->
     <meta charset="UTF-8">
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'">
-    <link href="./styles.css" rel="stylesheet">
-    <title>Hello World!</title>
+    <meta content="default-src 'self'; script-src 'self'" http-equiv="Content-Security-Policy">
+    <!-- 添加viewport元数据标签以提高移动设备的兼容性 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>简单加法演示</title>
   </head>
   <body>
-    <h1>Hello World!</h1>
-    We are using Node.js <span id="node-version"></span>,
-    Chromium <span id="chrome-version"></span>,
-    and Electron <span id="electron-version"></span>.
-
-    <!-- You can also require other files to run in this process -->
-    <script src="./renderer.js"></script>
+    <div>
+      <!-- 添加label元素以提高表单的可访问性 -->
+      <label for="num_a">请输入第一个数字：</label>
+      <input type="text" id="num_a" />
+    </div>
+    <div>
+      <label for="num_b">请输入第二个数字：</label>
+      <input type="text" id="num_b" />
+    </div>
+    <div>
+      <button type="button" id="btn_sum">计算两个数字之和：</button>
+      <output id="summation"></output>
+    </div>
+    <script src="renderer.js"></script>
   </body>
 </html>
