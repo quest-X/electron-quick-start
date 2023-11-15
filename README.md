@@ -1,14 +1,14 @@
-×¢Òâ: ±¾²Ö¿â´úÂëÄ¿µÄ, Ê¹ÓÃElectron(Ç°¶Ë) / Flask(Í¨ÐÅ) / Python(ºó¶Ë) À´¹¹½¨¿çÆ½Ì¨×ÀÃæ¼¶Ó¦ÓÃ.
+æ³¨æ„: æœ¬ä»“åº“ä»£ç ç›®çš„, ä½¿ç”¨Electron(å‰ç«¯) / Flask(é€šä¿¡) / Python(åŽç«¯) æ¥æž„å»ºè·¨å¹³å°æ¡Œé¢çº§åº”ç”¨.
 
-Ê¹ÓÃ:
-¿ÉÒÔ²Î¿¼ÎÒµÄ½Ì³Ì: [Electron ÁªºÏ Flask + Python ÊµÏÖ¿çÆ½Ì¨×ÀÃæÓ¦ÓÃ³ÌÐò¿ª·¢Ê¾Àý(4)](http://model.work/post/electron-ÁªºÏ-flask-+-python-ÊµÏÖ¿çÆ½Ì¨×ÀÃæÓ¦ÓÃ³ÌÐò¿ª·¢Ê¾Àý4/). 
+ä½¿ç”¨:
+å¯ä»¥å‚è€ƒæˆ‘çš„æ•™ç¨‹: [Electron è”åˆ Python & Flask è·¨å¹³å°æ¡Œé¢åº”ç”¨å¼€å‘ç¤ºä¾‹(4)](https://model.work/post/electron-%E8%81%94%E5%90%88-python-flask-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B4/). 
 
-¸Ä¶¯: 
-1. Ê×ÏÈfork¹Ù·½Ô­²Ö¿â.
-2. ²Î¿¼[pythonÓëElectronÁªºÏ±à³Ì¼ÇÂ¼Ö®¾Å(ElectronÓëFlaskÁªºÏ±à³ÌÊµÏÖ)](https://blog.csdn.net/weixin_45193154/article/details/128028853).
-3. ½øÐÐÎ¢Ð¡¸Ä¶¯µÄÍ¬Ê±ÐÞ¸´ÎÊÌâbug, ¿ÉÒÔ·ÅÐÄÊ¹ÓÃ.
+æ”¹åŠ¨: 
+1. é¦–å…ˆforkå®˜æ–¹åŽŸä»“åº“.
+2. å‚è€ƒ[pythonä¸ŽElectronè”åˆç¼–ç¨‹è®°å½•ä¹‹ä¹(Electronä¸ŽFlaskè”åˆç¼–ç¨‹å®žçŽ°)](https://blog.csdn.net/weixin_45193154/article/details/128028853).
+3. è¿›è¡Œå¾®å°æ”¹åŠ¨çš„åŒæ—¶ä¿®å¤é—®é¢˜bug, å¯ä»¥æ”¾å¿ƒä½¿ç”¨.
 
-> ÒÔÏÂÊÇÔ­²Ö¿âREADME.mdÄÚÈÝ[(#)](https://github.com/electron/electron-quick-start)
+> ä»¥ä¸‹æ˜¯åŽŸä»“åº“README.mdå†…å®¹[(#)](https://github.com/electron/electron-quick-start)
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
