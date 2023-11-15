@@ -1,9 +1,9 @@
-?注意: 本仓库代码目的, 使用Electron(前端) / Flask(通信) / Python(后端) 来构建跨平台桌面级应用.
+注意: 本仓库代码目的, 使用Electron(前端) / Flask(通信) / Python(后端) 来构建跨平台桌面级应用.
 
-?使用:
+使用:
 可以参考我的教程: [Electron 联合 Flask + Python 实现跨平台桌面应用程序开发示例(4)](http://model.work/post/electron-联合-flask-+-python-实现跨平台桌面应用程序开发示例4/). 
 
-?改动: 
+改动: 
 1. 首先fork官方原仓库.
 2. 参考[python与Electron联合编程记录之九(Electron与Flask联合编程实现)](https://blog.csdn.net/weixin_45193154/article/details/128028853).
 3. 进行微小改动的同时修复问题bug, 可以放心使用.
